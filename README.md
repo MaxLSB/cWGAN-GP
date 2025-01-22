@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Implementation of a conditional Wiertrass GAN with Gradient Penalty for Graph generation given a description a graph. 
+Implementation of a conditional Wasserstein GAN with Gradient Penalty for Graph generation given a description a graph. 
 
 This work was developed as part of a private Kaggle competition hosted for the ALTEGRAD course by the MVA. The dataset is not publicly available.
 
