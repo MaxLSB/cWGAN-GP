@@ -1,0 +1,8 @@
+numpy
+torch
+torch-geometric
+networkx
+scipy
+scikit-learn
+python-louvain
+tqdm
